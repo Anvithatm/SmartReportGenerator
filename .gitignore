@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+outputs/
+
+# Local data
+data/raw/
+data/processed/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
